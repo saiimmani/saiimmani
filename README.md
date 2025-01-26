@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 ## 🗂️ Highlighted Projects
 
-- [Project 1](https://github.com/saiimmani/FaceRecognitionAttendanceSystem.git): This is Face Recognition Based Attendance System.
-- [Project 2](https://github.com/saiimmani/BillingSystem.git): This is Billing System that follows FCFS (Example for Sheduling Algorithm in Operating System.)
-- [Project 3](https://github.com/saiimmani/Book-Management-System.git): This is a beginner project developed in C language.
+- [Face Recognition Attendance System](https://github.com/saiimmani/FaceRecognitionAttendanceSystem.git): This is Face Recognition Based Attendance System.
+- [BillingSystem](https://github.com/saiimmani/BillingSystem.git): This is Billing System that follows FCFS (Example for Sheduling Algorithm in Operating System.)
+- [Book Management System](https://github.com/saiimmani/Book-Management-System.git): This is a beginner project developed in C language.
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you want to connect or collaborate.
