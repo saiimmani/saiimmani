@@ -35,6 +35,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you want to connect or collaborate.
 
-## Visitors Count :
+## 📈 Traffic on My Code Journey
 
-![Visitor Count](https://profile-counter.glitch.me/saiimmani/count.svg)
+![Traffic](https://profile-counter.glitch.me/saiimmani/count.svg)
