@@ -37,4 +37,4 @@ Thank you for visiting my profile! Feel free to explore my repositories and reac
 
 ## Visitors Count :
 
-![Visitor Count](https://saiimmani-counter.glitch.me/your-github-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/saiimmani/count.svg)
