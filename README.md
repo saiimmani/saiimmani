@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sai-immani)
-- [Portfolio](https://sites.google.com/view/saiimmani/home)
 
 ## 🏆 GitHub Trophies
 
