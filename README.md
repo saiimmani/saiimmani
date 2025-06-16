@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ##  About Me
 
 - I’m currently pursuing a B.Tech in Computer Science and Engineering.
-- I’m currently learning iOS Development.
-- Ask me about Data Structures and Algorithms
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/sai-immani)
 
 ## Technologies & Tools
