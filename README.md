@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Immani! 
+# Hi there, I'm Immani Rama Venkata Sri Sai! 
 
 Welcome to my GitHub profile! I'm a passionate and dedicated software developer with a keen interest in Artificial Intelligence, web development, data science, machine learning, etc. I love exploring new technologies and solving problems through code.
 
