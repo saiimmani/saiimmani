@@ -151,10 +151,6 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+⭐+my+repositories;Let's+connect+and+build+amazing+things!;Happy+coding!+🚀" alt="Thanks Animation" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/saiimmani/saiimmani/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-
 <div align="right">
   <i>Last updated: 2025-07-12 13:15:47 UTC</i>
 </div>
