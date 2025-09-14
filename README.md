@@ -11,7 +11,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saiimmani.saiimmani&left_color=green&right_color=red&left_text=Hello%20Visitors" />
 </div>
 
-## 🚀 About Me
+## 😊 About Me
 
 I'm a passionate software developer and tech enthusiast dedicated to creating efficient, scalable solutions to real-world problems. I love exploring new technologies and contributing to open-source projects.
 
@@ -19,13 +19,10 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
-- 🔭 I'm currently working on building scalable web applications
-- 🌱 Learning Cloud Computing, DevOps practices, and AI/ML
-- 👯 Open to collaborate on innovative projects and open source contributions
-- 💬 Ask me about software development, automation, and tech career advice
-- ⚡ Fun fact: I love solving puzzles, hiking, and reading about emerging technologies!
+- I'm currently working on building scalable solutions
+- Learning Cloud Computing and AI/ML
+- Open to collaborate on innovative projects and open source contributions
 
-## 🎯 Coding Animation
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=500&color=7AF79A&center=true&vCenter=true&width=500&height=60&lines=const+developer+=+'passionate';while(coding)+%7B+learn();+%7D;console.log('Building+the+future!');git+commit+-m+'Amazing+features'" alt="Code Animation" />
@@ -152,7 +149,7 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 </div>
 
 <div align="right">
-  <i>Last updated: 2025-08-3 12:03 UTC</i>
+  <i>Last updated: 2025-09-14 15:11 IST </i>
 </div>
 
 <!--
