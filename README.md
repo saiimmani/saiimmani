@@ -55,7 +55,7 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!--![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
-### ⚡ Tech Stack Animation
+### ⚡ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,docker,git,aws,html,css,vscode&theme=dark" />
 </div>
@@ -71,13 +71,13 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiimmani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiimmani&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🔥 Contribution Metrics
+## 🔥 Contribution 
 
 <div align="center">
   <img src="https://metrics.lecoq.io/saiimmani?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=UTC" />
@@ -108,7 +108,7 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 </div>
 
-## 🌟 Dynamic Profile Features
+## 🌟 Dynamic Profile
 
 <div align="center">
 
