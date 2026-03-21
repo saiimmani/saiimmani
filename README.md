@@ -20,7 +20,6 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 </div>
 
 - I'm currently working on building scalable solutions
-- Learning Cloud Computing and AI/ML
 - Open to collaborate on innovative projects and open source contributions
 
 
@@ -83,19 +82,6 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
   <img src="https://metrics.lecoq.io/saiimmani?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=UTC" />
 </div>
 
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/saiimmani/FaceRecognitionAttendanceSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=FaceRecognitionAttendanceSystem&theme=radical" />
-  </a>
-  <a href="https://github.com/saiimmani/BillingSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=BillingSystem&theme=radical" />
-  </a>
-  <a href="https://github.com/saiimmani/Book-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=Book-Management-System&theme=radical" />
-  </a>
-</div>
 
 
 <div align="center">
