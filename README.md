@@ -60,9 +60,9 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 </div>
 
-### ⚡ Skills (Icons)
+### ⚡ Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,docker,git,aws,html,css,vscode&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,swift,js,ts,nodejs,github,git,aws,html,css,vscode&theme=dark" alt="Skill Icons" />
 </div>
 
 ---
@@ -88,7 +88,7 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-## 🔥 Recent Contributions (Metrics)
+## 🔥 Recent Contributions
 
 <div align="center">
   <img src="https://metrics.lecoq.io/saiimmani?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=UTC" alt="Metrics" />
