@@ -39,27 +39,6 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### Tools & Technologies
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
 ### ⚡ Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,swift,js,ts,nodejs,github,git,aws,html,css,vscode&theme=dark" alt="Skill Icons" />
@@ -150,7 +129,7 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 </div>
 
 <div align="right">
-  <i>Last updated: 2026-03-22</i>
+  <i>Last updated: 2026-03-26</i>
 </div>
 
 <!--
