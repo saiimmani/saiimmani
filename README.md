@@ -31,25 +31,14 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saiimmani&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ### ⚡ Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,swift,js,ts,nodejs,github,git,aws,html,css,vscode&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,html,css,vscode&theme=dark" alt="Skill Icons" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiimmani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiimmani&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
@@ -67,13 +56,6 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-## 🔥 Recent Contributions
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/saiimmani?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=UTC" alt="Metrics" />
-</div>
-
----
 
 ## 💻 Currently
 
@@ -84,21 +66,6 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 **Building the future**  
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="building gif" />
-
-</div>
-
----
-
-## 🌟 Dynamic Profile
-
-<div align="center">
-
-### 📈 GitHub Insights
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiimmani&theme=radical" alt="Profile details card" />
-
-### 📊 Detailed Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiimmani&theme=radical" alt="Stats card" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saiimmani&theme=radical&utcOffset=8" alt="Productive time card" />
 
 </div>
 
