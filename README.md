@@ -13,13 +13,13 @@
 
 ---
 
-## 😊 About Me
+##  About Me
 
 I’m a software developer and tech enthusiast who enjoys building **efficient, scalable solutions** and learning new technologies. I’m always excited to collaborate on meaningful projects and contribute to open source.
 
-- 🔭 Currently focused on: **building scalable solutions**
-- 🤝 Open to: **collaboration, open-source contributions, and innovative ideas**
-- 🌱 Always learning: **better engineering practices & modern tooling**
+-  Currently focused on: **building scalable solutions**
+-  Open to: **collaboration, open-source contributions, and innovative ideas**
+-  Always learning: **better engineering practices & modern tooling**
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coding gif" />
@@ -31,13 +31,13 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-### ⚡ Skills
+###  Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,git,html,css,vscode&theme=dark" alt="Skill Icons" />
 </div>
 
 ---
-
+## 📈📊
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiimmani&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
@@ -48,7 +48,7 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-## 📈 Activity
+##  Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiimmani&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
@@ -71,7 +71,7 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-## 🌐 Let’s Connect
+##  Let’s Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/sai-immani">
@@ -96,7 +96,7 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 </div>
 
 <div align="right">
-  <i>Last updated: 2026-03-26</i>
+  <i>Last updated: 2026-03-31</i>
 </div>
 
 <!--
