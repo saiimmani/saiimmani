@@ -6,20 +6,20 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saiimmani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/saiimmani?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/last-commit/saiimmani/saiimmani?label=Last%20Updated&color=blue" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saiimmani.saiimmani&left_color=green&right_color=red&left_text=Hello%20Visitors" />
+  <img src="https://img.shields.io/github/followers/saiimmani?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/saiimmani/saiimmani?label=Last%20Updated&color=blue" alt="Last Commit" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saiimmani.saiimmani&left_color=green&right_color=red&left_text=Hello%20Visitors" alt="Visitor Badge" />
 </div>
 
 ---
 
-##  About Me
+## About Me
 
 I’m a software developer and tech enthusiast who enjoys building **efficient, scalable solutions** and learning new technologies. I’m always excited to collaborate on meaningful projects and contribute to open source.
 
--  Currently focused on: **building scalable solutions**
--  Open to: **collaboration, open-source contributions, and innovative ideas**
--  Always learning: **better engineering practices & modern tooling**
+- 🔭 Currently focused on: **building scalable solutions**
+- 🤝 Open to: **collaboration, open-source contributions, and innovative ideas**
+- 🌱 Always learning: **better engineering practices & modern tooling**
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coding gif" />
@@ -31,24 +31,22 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-###  Skills
+### Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,git,html,css,vscode&theme=dark" alt="Skill Icons" />
 </div>
 
 ---
-## 📈📊
+
+## 📈 Stats 📊
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiimmani&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiimmani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
----
 
-##  Activity
+## Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiimmani&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
@@ -56,22 +54,18 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 
 ---
 
-
 ## 💻 Currently
 
 <div align="center">
-
-**Currently coding…**  
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="currently coding gif" />
-
-**Building the future**  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="building gif" />
-
+  <b>Currently coding…</b><br>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="currently coding gif" /><br><br>
+  <b>Building the future</b><br>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="building gif" />
 </div>
 
 ---
 
-##  Let’s Connect
+## Let’s Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/sai-immani">
@@ -96,7 +90,7 @@ I’m a software developer and tech enthusiast who enjoys building **efficient, 
 </div>
 
 <div align="right">
-  <i>Last updated: 2026-03-31</i>
+  <i>Last updated: 2026-04-03</i>
 </div>
 
 <!--
