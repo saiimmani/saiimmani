@@ -191,9 +191,6 @@ I'm a **B.Tech CSE student** at SRMIST and an AI/ML enthusiast who enjoys buildi
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn" alt="footer" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7AF79A&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Let%E2%80%99s+connect+and+build+amazing+things!;Happy+coding!+%F0%9F%9A%80" alt="Thanks Animation" />
