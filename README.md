@@ -174,13 +174,7 @@ I'm a **B.Tech CSE student** at SRMIST and an AI/ML enthusiast who enjoys buildi
     <img src="https://img.shields.io/badge/Portfolio-7AF79A?style=for-the-badge&logo=GoogleChrome&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="mailto:saichowdaryimmani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://saiimmani.github.io/portfolio/Sai_s_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-  </a>
+
 </div>
 
 <br/>
